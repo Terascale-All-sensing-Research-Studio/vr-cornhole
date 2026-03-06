@@ -23,6 +23,7 @@ TagManager:
   - Handle
   - Floor
   - Cornbag
+  - CornholeBoard
   layers:
   - Default
   - TransparentFX
